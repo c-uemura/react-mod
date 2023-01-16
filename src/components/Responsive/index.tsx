@@ -18,3 +18,6 @@ export const Mobile = ({ children }: Props) => {
   if (!isMobile || !children) return null;
   return children;
 };
+
+const Responsive = { Desktop, Mobile };
+export default Responsive;

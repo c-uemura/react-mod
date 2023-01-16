@@ -1,15 +1,10 @@
 {
   "files": {
     "main.js": "/dist/react-mod.js",
-    "main.css": "/dist/static/css/main.073c9b0a.css",
-    "static/js/787.bf4736ab.chunk.js": "/dist/static/js/787.bf4736ab.chunk.js",
     "index.html": "/dist/index.html",
-    "react-mod.js.map": "/dist/react-mod.js.map",
-    "main.073c9b0a.css.map": "/dist/static/css/main.073c9b0a.css.map",
-    "787.bf4736ab.chunk.js.map": "/dist/static/js/787.bf4736ab.chunk.js.map"
+    "react-mod.js.map": "/dist/react-mod.js.map"
   },
   "entrypoints": [
-    "react-mod.js",
-    "static/css/main.073c9b0a.css"
+    "react-mod.js"
   ]
 }
